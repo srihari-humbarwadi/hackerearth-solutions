@@ -1,6 +1,7 @@
 seats = ['WS', 'WS', 'MS', 'AS', 'AS', 'MS']
 t = int(input())
 
+# x = 5
 while t > 0:
     x = int(input())
     q = int(x / 12)
